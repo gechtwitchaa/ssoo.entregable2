@@ -38,18 +38,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++14 -fdiagnostics-color=always"
+					"fragment" : "-g -fdiagnostics-color=always"
 				}
 			],
-			"language" : "CXX",
-			"languageStandard" : 
-			{
-				"backtraces" : 
-				[
-					1
-				],
-				"standard" : "14"
-			},
+			"language" : "C",
 			"sourceIndexes" : 
 			[
 				0
@@ -74,7 +66,7 @@
 				"role" : "libraries"
 			}
 		],
-		"language" : "CXX"
+		"language" : "C"
 	},
 	"name" : "ssoo_entregable2",
 	"nameOnDisk" : "ssoo_entregable2.exe",
@@ -98,7 +90,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "entregable2.cpp",
+			"path" : "entregable2.c",
 			"sourceGroupIndex" : 0
 		}
 	],
