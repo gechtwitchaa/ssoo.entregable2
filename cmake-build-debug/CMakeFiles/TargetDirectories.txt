@@ -1,0 +1,3 @@
+C:/Users/alber/Documents/GitHub/ssoo.entregable2/cmake-build-debug/CMakeFiles/ssoo_entregable2.dir
+C:/Users/alber/Documents/GitHub/ssoo.entregable2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alber/Documents/GitHub/ssoo.entregable2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
